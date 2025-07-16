@@ -1,2 +1,2 @@
 # yt-dlp_bats
-A simple batch file that installs python3.12 and FFmpeg via winget + yt-dlp via pip and then creates 2 batch files for downloading videos as .mp3 and .mp4
+A simple batch file **[Get-yt-dlp.bat](https://github.com/Bolllad/yt-dlp_bats/blob/main/yt-dlp/Get-yt-dlp.bat)** that installs **Python 3.12** and **[FFmpeg](https://github.com/BtbN/FFmpeg-Builds)** via _winget_, **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** via _pip_, then creates 2 batch files for downloading videos as **[.mp3](https://github.com/Bolllad/yt-dlp_bats/blob/main/yt-dlp/as-mp3-ytdlp.bat)** and **[.mp4](https://github.com/Bolllad/yt-dlp_bats/blob/main/yt-dlp/as-mp4-ytdlp.bat)** _(request link from user then download and convert in same directory as batch file)_.

@@ -32,7 +32,7 @@ echo.
 
 rem Attempt to install yt-dlp
 echo Starting %ESC%[1;41myt-dlp%ESC%[0m installation via %ESC%[1;45mpip%ESC%[0m...
-start /wait cmd /c pip install yt-dlp
+start /wait cmd /c pip3 install yt-dlp
 IF %ERRORLEVEL% NEQ 0 (
     echo. %ESC%[0mAn error occurred during yt-dlp installation.
     echo. Error code:%ESC%[91m %ERRORLEVEL%%ESC%[0m

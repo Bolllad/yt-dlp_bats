@@ -5,7 +5,7 @@ A simple batch file **[Get-yt-dlp.bat](https://github.com/Bolllad/yt-dlp_bats/bl
 1) _Navigate to [Releases](https://github.com/Bolllad/yt-dlp_bats/releases)_
 2) _Download `yt-dlp.zip` from any release_
 3) _Unpack archive into a directory where you want to download your videos to_
-4) _Run `Get-ytd-lp.bat`_
+4) _Run `Get-yt-dlp.bat`_
 
 > [!IMPORTANT]
 > Converting might take some time, wait until cmd-popup automatically closes and batch file prompts you to press any button to close.

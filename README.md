@@ -11,4 +11,4 @@ A simple batch file **[Get-yt-dlp.bat](https://github.com/Bolllad/yt-dlp_bats/bl
 > Converting might take some time, wait until cmd-popup automatically closes and batch file prompts you to press any button to close.
 
 > [!TIP]
-> In case any of any errors during installation, refer to web with error codes provided.
+> In case of any errors during installation, refer to web with error codes provided.
